@@ -10,4 +10,4 @@ This sketch includes colorful population of random circles.
 ## Sketch 2 
 This sketch includes a colorful generation of swirling circles.
 
-[Sketch](./Sketch%202/) 
+[Sketch](./Sketch2/) 
