@@ -1,13 +1,8 @@
-# My Portfolio
+# Final
 
-This repository contains my portfolio website. 
+This repository contains my final website. 
 
-## Sketch 1
-[Sketch](./sketch/)
+## Snake
+[Sketch](./sketch3/)
 
-This sketch includes colorful population of random circles. 
-
-## Sketch 2 
-This sketch includes a colorful generation of swirling circles.
-
-[Sketch](./Sketch2/) 
+Feel free to play the game!
