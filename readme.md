@@ -3,6 +3,6 @@
 This repository contains my final website. 
 
 ## Snake
-[Sketch](./sketch3/)
+[Sketch](./Sketch4/)
 
 Feel free to play the game!
